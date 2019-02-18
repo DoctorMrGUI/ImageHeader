@@ -1,0 +1,10 @@
+F:\Project\VS\ImageHeader\ImageHeader\obj\Release\ImageHeader.csprojAssemblyReference.cache
+F:\Project\VS\ImageHeader\ImageHeader\obj\Release\ImageHeader.Properties.Resources.resources
+F:\Project\VS\ImageHeader\ImageHeader\obj\Release\ImageHeader.csproj.GenerateResource.cache
+F:\Project\VS\ImageHeader\ImageHeader\obj\Release\ImageHeader.csproj.CoreCompileInputs.cache
+F:\Project\VS\ImageHeader\ImageHeader\bin\Release\ImageHeader.exe.config
+F:\Project\VS\ImageHeader\ImageHeader\bin\Release\ImageHeader.exe
+F:\Project\VS\ImageHeader\ImageHeader\bin\Release\ImageHeader.pdb
+F:\Project\VS\ImageHeader\ImageHeader\obj\Release\ImageHeader.exe
+F:\Project\VS\ImageHeader\ImageHeader\obj\Release\ImageHeader.pdb
+F:\Project\VS\ImageHeader\ImageHeader\obj\Release\ImageHeader.ImageHeader.resources
