@@ -178,7 +178,7 @@ namespace ImageHeader{
                 int x, y, number = pictureBox2.Image.Width * pictureBox2.Image.Height, xl = pictureBox2.Image.Width, yl = pictureBox2.Image.Height;
                 StreamWriter fw = new StreamWriter(fsWrite);
                 fw.Write("//Image width: "+ pictureBox2.Image.Width+", "+ "Height: "+ pictureBox2.Image.Height+";\n\r");
-                fw.Write("static unsigned char image[] = {\n");
+                fw.Write("const unsigned char image[] = {\n");
                 using (Bitmap bmp = new Bitmap(url)){
                     for (y = 0; y < yl; y++){
                         for (x = 0; x < xl; x++){
